@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Methodology}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Data Source}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Mathematical Model}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}P50 and P90 Prediction}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Trolley-Level Aggregation}{3}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Results}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Model Parameters}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Data Summary}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Prediction Examples}{4}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Analysis}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}KPI Gap Analysis}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Discussion}{4}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Validation and Acceptance}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Model Validation Criteria}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Statistical Diagnostics}{5}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Conclusion}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Recommendations}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Future Work}{6}{subsection.6.2}%
