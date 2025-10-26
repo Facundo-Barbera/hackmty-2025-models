@@ -133,8 +133,5 @@ dmypy.json
 .LSOverride
 ._*
 
-# Generated documentation artifacts
-docs/productivity/out/
-
 # VSCode
 .vscode/
